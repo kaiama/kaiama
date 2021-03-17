@@ -3,13 +3,13 @@
 I yell about design all day and make sure stuff you're shippin' doesn't break.
   
 Current projects include...  
-✨ — front-end for assorted projects  
+✨ — front-end for assorted web projects  
 📦 — animated package nets via JavaScript (It's pointless motion design!)  
 📐 — Solidworks plugins for fixing floating points and creating generative structures
 
-<!--### Hi there 👋-->
+<!-- DEFAULT README
 
-<!--
+### Hi there 👋
 **kaiama/kaiama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...-->
