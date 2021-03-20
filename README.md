@@ -3,6 +3,7 @@
 I yell about design all day and make sure stuff you're shippin' doesn't break.
   
 Current projects include...  
+💻 — GPU-accelerated JS  
 ✨ — front-end for assorted web projects  
 📦 — animated package nets via JavaScript (It's pointless motion design!)  
 📐 — Solidworks plugins for fixing floating points and creating generative structures
