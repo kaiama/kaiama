@@ -1,11 +1,11 @@
 ### Hiya! I'm Kaia. 👋
   
-I yell about design all day and make sure stuff you're shippin' doesn't break.
+I yell about design all day and make sure packages you're shippin' don't break.
   
 Current projects include...  
 ✨ — front-end for assorted web projects  
 📦 — animated package nets via JavaScript (It's pointless motion design!)  
-📐 — Solidworks plugins for fixing floating points and creating generative structures
+📐 — Solidworks plugins for fixing floating point precision and creating generative structures
 
 <!-- DEFAULT README
 
