@@ -1,11 +1,13 @@
 ### Hiya! I'm Kaia. 👋
   
-I yell about design all day and make sure packages you're shippin' don't break.
+I yell about design all day and make sure containers and packages you're shippin' don't break.
   
 Current projects include...  
-✨ — front-end for assorted web projects  
+📃 — resume for packaging things  
+✨ — frontend for assorted web projects  
+🐚 — generative design using Grasshopper (Rhino) and from scratch in C++, CUDA, and JavaScript  
 📦 — animated package nets via JavaScript (It's pointless motion design!)  
-📐 — Solidworks plugins for fixing floating point precision and creating generative structures
+📐 — Solidworks plugins for fixing floating point precision
 
 <!-- DEFAULT README
 
