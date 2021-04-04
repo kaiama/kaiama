@@ -8,7 +8,7 @@ Current projects include...
 ➰ — generative design using Grasshopper (Rhino) and from scratch in C++, CUDA, and JavaScript  
 📦 — testing of different corrugated medium shapes via Grasshopper and Kangaroo (Rhino) and lab equipment  
 📦 — animated package nets via JavaScript (It's pointless motion design!)  
-📐 — Solidworks plugins for fixing floating point precision across multiple tools
+📐 — Solidworks plugins for fixing floating point precision, allowing flexible material parts, and placing packaging templates
 
 <!-- DEFAULT README
 
