@@ -3,11 +3,8 @@
 I yell about design all day and make sure containers and packages you're shippin' don't break.
   
 Current projects include...  
-📃 — resume for packaging things, written in LaTeX  
 ✨ — frontend for assorted web projects  
-➰ — generative design using Grasshopper (Rhino) with scripts to run other functions  
-📦 — breaking software in an endless quest to make better packages  
-📐 — Solidworks plugins... There's too many. Please help.
+➰ — simulating polymer formation and structures
 
 <!-- DEFAULT README
 
